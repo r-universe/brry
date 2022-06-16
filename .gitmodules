@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "berryFunctions"]
+	path = berryFunctions
+	url = https://github.com/brry/berryfunctions
+	shallow = true
+	registered = true
+[submodule "extremeStat"]
+	path = extremeStat
+	url = https://github.com/brry/extremestat
+	shallow = true
+	registered = true
+[submodule "OSMscale"]
+	path = OSMscale
+	url = https://github.com/brry/osmscale
+	shallow = true
+	registered = true
+[submodule "rdwd"]
+	path = rdwd
+	url = https://github.com/brry/rdwd
+	shallow = true
+	registered = true
+[submodule "rskey"]
+	path = rskey
+	url = https://github.com/brry/rskey
+	shallow = true
+	registered = true
