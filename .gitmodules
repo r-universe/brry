@@ -8,6 +8,11 @@
 	url = https://github.com/brry/berryfunctions
 	shallow = true
 	registered = true
+[submodule "dwdradar"]
+	path = dwdradar
+	url = https://github.com/brry/dwdradar
+	shallow = true
+	registered = true
 [submodule "extremeStat"]
 	path = extremeStat
 	url = https://github.com/brry/extremestat
