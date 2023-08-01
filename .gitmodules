@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OSMscale"]
+	path = OSMscale
+	url = https://github.com/brry/osmscale
 [submodule "berryFunctions"]
 	path = berryFunctions
 	url = https://github.com/brry/berryfunctions
@@ -11,9 +14,6 @@
 [submodule "extremeStat"]
 	path = extremeStat
 	url = https://github.com/brry/extremestat
-[submodule "OSMscale"]
-	path = OSMscale
-	url = https://github.com/brry/osmscale
 [submodule "rdwd"]
 	path = rdwd
 	url = https://github.com/brry/rdwd
